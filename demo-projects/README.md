@@ -1,4 +1,4 @@
-# Demo published projects for learning purposes
+# Demo published projects for learning purposes using Python
 
 ## URLs
 

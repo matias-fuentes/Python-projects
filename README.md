@@ -1,4 +1,4 @@
-# More elaborated published projects using Python
+# Published projects using Python
 
 ## URLs
 
